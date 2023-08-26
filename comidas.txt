@@ -2,5 +2,4 @@ arroz
 lentejas
 carne
 aceitunas 
-kiwis
-pomelos
+auto
