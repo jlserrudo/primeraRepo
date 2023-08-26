@@ -2,4 +2,7 @@ arroz
 lentejas
 carne
 aceitunas 
-auto
+kiwis
+pomelos
+bananas
+sandwiches
